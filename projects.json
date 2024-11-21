@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Créez la page d'accueil d'une agence de voyage",
+    "image": "https://i.postimg.cc/kGn5JPqz/P2-1.webp",
+    "description": "Création d'une page web responsive, intégration d'une maquette Figma en utilisant HTML et CSS.",
+    "link": "https://github.com/VMarelle/OC-P2"
+  },
+  {
+    "id": 2,
+    "title": "Créez une page web dynamique avec Javascript",
+    "image": "https://i.postimg.cc/KzbGfhkj/P3-1.webp",
+    "description": "Création d'une page web dynamique avec Javascript et en communiquant avec une API, gestion des événements utilisateurs et manipulation des éléments du DOM avec JavaScript.",
+    "link": "https://github.com/VMarelle/OC-P3"
+  },
+  {
+    "id": 3,
+    "title": "Débuggez et optimisez un site de photographe",
+    "image": "https://i.postimg.cc/Vv1JJbB7/P4-1.webp",
+    "description": "Débbugage d'un site grâce aux Chrome DevTools et optimisation de celui-ci au niveau de son référencement (SEO) et de son accessibilité.",
+    "link": "https://github.com/VMarelle/OC-P4"
+  },
+  {
+    "id": 4,
+    "title": "Créez une application web de location immobilière",
+    "image": "https://i.postimg.cc/rwvFdrqS/P5-1.webp",
+    "description": "Implémentation du front-end d'une app web grâce à React et React Router, développement de l'interface avec Sass et animation CSS.",
+    "link": "https://github.com/VMarelle/OC-P5"
+  },
+  {
+    "id": 5,
+    "title": "Développez le back-end d'un site de notation de livres",
+    "image": "https://i.postimg.cc/BQS8sHvb/P6-1.webp",
+    "description": "Implémentation du back-end avec Node.js, création d'un serveur via Express et d'une base de données MongoDB, système d'authentification sécurisé et optimisation des images. ",
+    "link": "https://github.com/VMarelle/OC-P6"
+  },
+  {
+    "id": 6,
+    "title": "Planifiez le développement du site de votre client",
+    "image": "https://i.postimg.cc/QCbH1xfj/P7-1.webp",
+    "description": "Rédaction des spécifications techniques d'un projet à l'aide d'une veille technologique. Utilisation de la méthode agile et scrum, gestion du projet avec notion et tableau kanban.",
+    "link": "https://github.com/VMarelle/OC-P7"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend",
+    "image": "https://i.postimg.cc/t4bJ59Lh/frontend.webp",
+    "description": "HTML5, CSS3 : Flexbox, Grid, animations CSS",
+    "description2": "JavaScript(ES6+) : Promises, Async/Await, gestion des événements",
+    "description3": "React : Hooks (useState, useEffect)"
+  },
+  {
+    "id": 2,
+    "title": "Backend",
+    "image": "https://i.postimg.cc/zGd6BKb2/base-de-donnees-1.webp",
+    "description": "Node.js (Express.js) : Gestion des middlewares, des routes, et intégration de bases de données",
+    "description2": "Bases de données : NoSQL MongoDB",
+    "description3": "Création et consommation d'API REST : authentification JWT, gestion des erreurs"
+  },
+  {
+    "id": 3,
+    "title": "Outils",
+    "image": "https://i.postimg.cc/bN0jzZ94/icons8-github-64.webp",
+    "description": "Versioning : Git, GitHub",
+    "description2": "Environnements de développement : Visual Studio Code",
+    "description3": "Serveur et gestion de bases de données : MongoDB"
+  }
+]
