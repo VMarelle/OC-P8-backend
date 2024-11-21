@@ -3,12 +3,12 @@ const { getAllSkills, addSkill } = require("../dao/skillDAO");
 const Skill = require("../models/Skill");
 const router = express.Router();
 
-router.get("/skills", (req, res) => {
+router.get("/", (req, res) => {
   const skills = getAllSkills();
   res.json(skills);
 });
 
-router.post("/skills", (req, res) => {
+router.post("/", (req, res) => {
   const { id, title, image, description, description2, description3 } =
     req.body;
   const newSkill = new Skill(

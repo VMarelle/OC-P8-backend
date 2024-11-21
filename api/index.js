@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send({ message: "CaCa123" });
+  res.json({ message: "CaCa123" });
 });
 
 module.exports = app;
