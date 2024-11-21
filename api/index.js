@@ -1,11 +1,3 @@
-const express = require("express");
+import app from "../src/app.js";
 
-const app = express();
-
-app.use(express.json());
-
-app.get("/", (req, res) => {
-  res.json({ message: "CaCa123" });
-});
-
-module.exports = app;
+export default app;
